@@ -24,6 +24,7 @@ Se implemento los algoritmos insertion sort y bubble sort en python por medio de
 ##Archivo perm2b 2
 
 1.Se implemento el algoritmo Bubble sort para este archivo, su complejidaad es O(N^2)
+
     ```
     def bubbleSort(L):
     n = len(L)
