@@ -16,7 +16,10 @@ Se implemento los algoritmos insertion sort y bubble sort en python por medio de
         A[i + 1] = key
     return A 
     ```
-    2. ![n vs  Tiempo en segundos](https://user-images.githubusercontent.com/93954219/173974347-56085545-682a-417b-842b-e11c035dc92e.png)
+    
+2. ![_O(N^2)_ (1)](https://user-images.githubusercontent.com/93954219/173974633-63b213d1-59d6-48b4-8680-2a9761103a56.png)
+
+3. ![n vs  Tiempo en segundos](https://user-images.githubusercontent.com/93954219/173974347-56085545-682a-417b-842b-e11c035dc92e.png)
 
 ##Archivo perm2b 2
 
@@ -32,5 +35,10 @@ Se implemento los algoritmos insertion sort y bubble sort en python por medio de
                 L[j], L[j + 1] = L[j + 1], L[j]         
         if not swapped:
             return
-    ```
+     ```
+
+2.  ![_O(N^2)_](https://user-images.githubusercontent.com/93954219/173974730-b8a05bb6-291a-4010-9ddf-0dd29f911d5f.png)
+
+4.  ![n vs  Tiempo](https://user-images.githubusercontent.com/93954219/173974893-5dc0d92b-e2ec-4b61-bde7-b9eb0ceb4344.png)
+
 
