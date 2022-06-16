@@ -1,9 +1,10 @@
 # Permanente-2b
 Se implemento los algoritmos insertion sort y bubble sort en python por medio de funciones, ambos algoritmos realizan la mismas funciones en un tiempo similar.
 
-##Archivo perm2b
+## Archivo perm2b
 
 1.Se implemento el algoritmo insertion sort para este archivo del cual la complejidad es O(N^2)
+
     ```
     def insertionSort(A):
     for j in range(1,len(A)) :
